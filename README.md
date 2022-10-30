@@ -11,7 +11,7 @@ The #1 Best Adventure Capitalist hack.
 7. Navigate to the file where you stored the hack and select it.
 8. Then at the botton of Cheat Engine you will see the hack loaded.
 9: Click the ENABLE check box.
-10: Cheats should appear on Cheat Engine. Enjoy!
+- Cheats should then show up in Cheat Engine -
 
 # Credits
 
