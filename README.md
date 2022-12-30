@@ -17,4 +17,4 @@ The #1 Best Adventure Capitalist hack.
 
 Made By Payson Holmes
 
-&copy; 2022 - PDennSploit Softworks LLC
+&copy; 2023 - PDennSploit Softworks LLC
